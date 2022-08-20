@@ -1,5 +1,9 @@
 # co9304ba3809dccf315e7d85a
 
+## Basketball Counter
+
+This is my first solo project from Scrimba's Javascript module. I coded this from scratch using a Figma design file. It's fully functional, just needs some final CSS tweaking for alignment. Once I have finished coding it to the specs of the design given, I may update the colors and design as well.
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
