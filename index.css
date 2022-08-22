@@ -1,7 +1,7 @@
 body {
     margin: 0;
-    background-color: #111827;
-    color: #E5E5E5;
+    background-color: #065F46;
+    color: #FEF3C7;
 }
 
 @font-face {
@@ -16,17 +16,17 @@ h3 {
 
 .container {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     padding: 20px 40px;
 }
 
 .team {
     padding: 0 20px 10px 20px;
+    text-align: center;
 }
 
 .score-display {
     background-color: black;
-    text-align: center;
     font-family: 'Cursed Timer ULiL';
     font-size: 90px;
     line-height: 127px;
@@ -36,16 +36,20 @@ h3 {
     top: 125px;
     margin: -20px 0 20px 0;
     border-radius: 5px;
-    color: #F94F6D;
+    color: #FBBF24;
+}
+
+.buttons {
+    display: flex; 
+    justify-content: space-around;
 }
 
 .score-button {
     background: transparent;
-    border: 2px solid #9AABD8;
+    border: 2px solid #D1FAE5;
     border-radius: 5px;
     padding: 10px;
-    margin-right: 5px;
-    color: #9AABD8;
+    color: #D1FAE5;
     font-family: 'Cursed Timer ULiL';
     font-size: 14px;
 }
