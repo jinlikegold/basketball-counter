@@ -2,7 +2,7 @@
 
 ## Basketball Counter
 
-This is my first solo project from Scrimba's Javascript module. I coded this from scratch using a Figma design file. It's fully functional, just needs some final CSS tweaking for alignment. Once I have finished coding it to the specs of the design given, I may update the colors and design as well.
+This is my first solo project from Scrimba's Javascript module. I coded this from scratch using a Figma design file. It's fully functional, and I've update the colors as well. I could see this app evolving to include a reset button as well as other elements.
 
 ## About Scrimba
 
