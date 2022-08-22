@@ -23,7 +23,7 @@ let guestScoreUpdate = document.getElementById("guest-score")
 
 function plusOneGuest() {
     guestScoreUpdate.textContent = guestScore + 1
-    homeScore += 1
+    guestScore += 1
 }
 
 function plusTwoGuest() {
